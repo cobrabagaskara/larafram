@@ -1,0 +1,10 @@
+{
+  "name": "Pharmacy",
+  "alias": "pharmacy",
+  "version": "1.0.0",
+  "description": "Manajemen obat & farmasi",
+  "providers": [
+    "Modules\\\\Pharmacy\\\\Providers\\\\PharmacyServiceProvider"
+  ],
+  "active": false
+}

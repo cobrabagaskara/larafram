@@ -1,0 +1,10 @@
+{
+  "name": "Patient",
+  "alias": "patient",
+  "version": "1.0.0",
+  "description": "Manajemen pasien",
+  "providers": [
+    "Modules\\\\Patient\\\\Providers\\\\PatientServiceProvider"
+  ],
+  "active": false
+}
